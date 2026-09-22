@@ -1,0 +1,18 @@
+PS1 — Problem Set 1 (assigned Week 2)
+Problem Set 1 (Compound Interest): 
+
+Problem A — Saving for a House (30%), 
+
+Problem B (30%), Problem C (40%). 
+
+Released in Week 2; clinic in Week 3; due at the end of Week 3. 
+
+PS0 must be completed first. Individual submission: you may work together, but each student writes up and hands in separately — identical code is not allowed, and you may not look at or copy another student's code or code structure. 
+
+List your collaborators in a header comment together with your name and time spent. 
+
+Grading rubric: correctness & boundary values 45 (public tests 20 / hidden tests 25) · decomposition 20 · student-written tests 15 · explanation 10 · clarity 10. 
+
+PS1–PS5 are worth 40% in total (8% each). 
+
+See PS1.pdf in the Week 2 Materials folder.

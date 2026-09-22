@@ -1,0 +1,2 @@
+FE Week 2 — Finger Exercises (Lectures 3–4)
+Submit your Finger Exercise solutions for Lecture 3 (Loops) and Lecture 4 (String Loops, Guess-and-Check Search). Individual work. Ungraded — submission check only.

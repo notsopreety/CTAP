@@ -1,0 +1,2 @@
+FE Week 3 — Finger Exercises (Lectures 5–6)
+Submit your Finger Exercise solutions for Lecture 5 (Floats and Approximation) and Lecture 6 (Bisection Search). Individual work. Ungraded — submission check only.

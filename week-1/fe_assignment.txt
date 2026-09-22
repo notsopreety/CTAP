@@ -1,0 +1,2 @@
+FE Week 1 — Finger Exercises (Lectures 1–2)
+Submit your Finger Exercise solutions for Lecture 1 (Introduction) and Lecture 2 (Strings, Input/Output, Branching). Individual work. Ungraded — submission check only; this is the in-class practice record for Week 1. Upload your .py files (or a single .zip).

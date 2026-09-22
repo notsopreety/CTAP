@@ -1,0 +1,2 @@
+PS0 — Introduction & Installation (assigned Week 1)
+Problem Set 0: environment setup and installation check. Assigned in Week 1 and started in class. Ungraded (completion check only) — but it is required before PS1. Submission: your .py file plus a screenshot or short note confirming your Python/IDE installation. Include a header comment with your name, student ID, collaborators, and time spent. See PS0.pdf in the Week 1 Materials folder.
